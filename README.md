@@ -1,2 +1,2 @@
 # bookbot
-Boot.dev project book botf
+Boot.dev project book bot
